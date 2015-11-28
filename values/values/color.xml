@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="hltcolor1">#666666</color>
+           <color name="Epubtheme_colordark" >#9CACBE</color>
+    <color name="Epubtheme_color" >#0E8383</color>
+    <color name="Epub_dark_gray" >#3f3f3f</color>
+     <color name="Epub_info_color" >#1b3040</color>
+     <color name="Epub_infotext_color" >#f2f2f2</color>
+     <color name="textcolor">#ffc9c9c9</color>
+    <color name="black_shade">#ff515151</color>
+     <color name="navigation_background_color">#1B1C20</color>
+    <color name="white">#ffffffff</color>
+    <color name="green">#ff98E532</color>
+    <color name="brown">#ff00ff21</color>
+    <color name="oranage">#ffFF7200</color>
+    
+    
+    <color name="black">#030303</color>
+    <color name="light_blue">#1C86EE</color>
+    <color name="textview_bg">#FFFAFA</color>
+    <color name="toc_item_bgcolor">#CCFFCC</color>
+  <color name="toc_item_color">#0099CC</color>
+    
+ <!--  For Shadows -->
+    <color name="default_shadow_color">#88757575</color>
+    <color name="default_fill_color">#ffffff</color>
+     <color name="shadow">#80000000</color>
+     
+     
+    <color name="transparent_black">#D9000000</color>
+    <color name="edit_text_hint_color">#6AA50D</color>
+    <color name="baground">#ffff99</color>
+    <color name="font">#000000</color>
+    <color name="canvas">#404040</color>
+    <color name="toolbar">#C0000000</color>
+    <color name="page_indicator">#C0202020</color>
+    <color name="busy_indicator">#C0202020</color>
+    <color name="button_normal">#00000000</color>
+    <color name="button_pressed">#FF2572AC</color>
+    <color name="text_normal">#FFFFFF</color>
+    <color name="text_pressed">#FFFFFF</color>
+    <color name="text_border_normal">#000000</color>
+    <color name="text_border_pressed">#2572AC</color>
+    <color name="text_border_focused">#000000</color>
+    <color name="seek_thumb">#2572AC</color>
+    <color name="seek_progress">#FFFFFF</color>
+    <color name="buy_orange">#EF6209</color>
+    <color name="buy_orange_pressed">#EF1209</color>
+    <color name="read_btn_black">#3e3e3e</color>
+    <color name="read_btn_black_pressed">#000000</color>
+    <color name="white_dark">#F4F4F4</color>
+    <color name="light_grey">#DDDDDD</color>
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="gray_3">#F3F3F3</color>
+    <color name="gray_4">#F6F6F6</color>
+    <color name="light_green">#008C00</color>
+    <color name="dark_orange">#BC7551</color>
+    <color name="light_orange">#FF7632</color>
+    <color name="orange">#FC7C3D</color>
+    <color name="grey_onotes">#DADEE1</color>
+    <color name="grey_dark">#949697</color>
+    <color name="menu_item_selected">#EAB766</color>
+    <color name="nav_drawbale_bk">#232440</color>
+    <color name="sky_green_txt">#296D92</color>
+    <color name="sky_light_bottom">#4D788B</color>
+    <color name="brown_light">#F2F2F2</color>
+    <color name="primary">#EF5350</color>
+    <color name="secondary">#B71C1C</color>
+    <color name="overlay_light">#F8F8F8</color>
+    <color name="card_shadow">#D4D4D4</color>
+    <color name="black_overlay">#60000000</color>
+    <color name="white_overlay">#40FFFFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="pink">#B30930</color>
+     <color name="soft_green">#27A6A2</color>
+</resources>

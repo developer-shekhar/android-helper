@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--     <array name="book_images">
+        <item>@drawable/charter_ru</item>
+        <item>@drawable/charter_zh</item>
+        <item>@drawable/charter_ar</item>
+        <item>@drawable/charter_en</item>
+        <item>@drawable/charter_es</item>
+        <item>@drawable/charter_fr</item>
+        <item>@drawable/charter_ru</item>
+        <item>@drawable/charter_zh</item>
+        <item>@drawable/charter_ar</item>
+        <item>@drawable/charter_en</item>
+    </array> -->
+
+  <array name="book_images">
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+        <item>@drawable/ebook</item>
+    </array>
+
+
+    <integer name="infoduration">300</integer>
+
+</resources>
